@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>百度页面</title>
+        <style>
+            .searchBox{
+                background-image:url("3.png");
+                background-repeat:no-reapeat;
+                padding-left:20px;
+                }
+        </style>
+    </head> 
+
+
+    <body>
+<!-- 导航部分 -->    
+        <p align="left">
+  			<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="3"<a>新闻</a></font></a>&nbsp&nbsp
+  			<a href="https://www.hao123.com/"><font color="#000000" face="黑体" size="3"<a>hao123</a></font></a>&nbsp&nbsp
+  			<a href="https://map.baidu.com/"><font color="#000000" face="黑体" size="3"<a>地图</a></font></a>&nbsp&nbsp
+  			<a href="https://live.baidu.com/"><font color="#000000" face="黑体" size="3"<a>直播</a></font></a>&nbsp&nbsp
+  			<a href="https://haokan.baidu.com/?sfrom=baidu-top"><font color="#000000" face="黑体" size="3"<a>视频</a></font></a>&nbsp&nbsp
+  			<a href="https://xueshu.baidu.com/"><font color="#000000" face="黑体" size="3"<a>学术</a></font></a>&nbsp&nbsp
+  			<a href="https://www.baidu.com/more/"><font color="#000000" face="黑体" size="3"<a>更多</a></font></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp	    	
+		<p align="right">
+			<a href="www.baidu.com"><font color="#000000" face="黑体" size="3"<a>设置</font></a>
+            <a href="www.baidu.com" style="background:#1E90FF;color:white;text-decoration:none"><font  face="黑体" size="3" >登录</font></a>
+        </p><br><br>
+<!-- 主页图片 -->
+        <center>
+            <p><img src="https://www.baidu.com/img/PCpad_012830ebaa7e4379ce9a9ed1b71f7507.png" name="baidu" width="270px" title="点击一下,了解更多" alt="百度"/></p>
+        
+<!-- 搜索部分 -->
+            <p>
+                <input type="text" style="width:630px; height:42px; vertical-align:middle; bordercolor:#1E90FF; "/>
+                <input type="button" value="百度一下" style="background:#1E90FF;face:宋体;font-size:15; color:#FFFFFF; border:none; width:100px; height:44px; margin-left:-13px; vertical-align:middle;">
+            </p>
+<!-- 热搜部分 -->	
+        <center>
+			<a href="http://top.baidu.com/?fr=mhd_card"><font color="#000000" face="黑体" size="3"<a>百度热榜</a></font></a>&nbsp&nbsp<br>
+			<a href="https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E5%BB%B6%E9%95%BF%E8%87%B310%E5%A4%A9&tn=49055317_11_hao_pg">
+		<center>
+				<font color="#000000" face="黑体" size="3"<a>1&nbsp人大代表建议春节假期延长至10天</a></font></a>&nbsp&nbsp&nbsp&nbsp
+			<a href="https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%B7%B2%E7%BB%8F%E6%81%A2%E5%A4%8D%E6%92%AD%E5%87%BACGTN%E9%A2%91%E9%81%93&tn=49055317_11_hao_pg"><font color="#000000" face="黑体" size="3"<a>4&nbsp德国已经恢复播出CGTN频道</a></font></a>&nbsp&nbsp<br>
+		</center>
+		<center>
+			<a href="https://www.baidu.com/s?wd=%E6%AF%85%E5%8A%9B%E5%8F%B7%E5%AE%8C%E6%88%90%E9%A6%96%E6%AC%A1%E7%81%AB%E6%98%9F%E8%A1%8C%E8%B5%B0&tn=49055317_11_hao_pg"><font color="#000000" face="黑体" size="3"<a>2&nbsp毅力号完成首次火星行走</a></font></a>&nbsp&nbsp
+			<a href="https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D%E7%82%B9%E5%A4%96%E5%8D%96%E6%84%9F%E8%B0%A2%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA&tn=49055317_11_hao_pg"><font color="#000000" face="黑体" size="3"<a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp5&nbsp老人去世前点外卖感谢公交司机</a></font></a>&nbsp&nbsp<br>
+		</center>
+		<center>
+			<a href="https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%BC%9A%E8%A7%81%E5%8D%B0%E5%A4%A7%E4%BD%BF%3A%E4%BF%9D%E6%8C%81%E5%86%9B%E4%BA%8B%E7%A3%8B%E5%95%86%E5%8A%BF%E5%A4%B4&tn=49055317_11_hao_pg"><font color="#000000" face="黑体" size="3"<a>3&nbsp中方会见印大使:保持军事磋商势头百度热榜</a></font></a>&nbsp&nbsp
+			<a href="https://www.baidu.com/s?wd=%E9%99%88%E8%96%87%E3%80%81%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%A2%E9%98%9F%E9%83%A8%E7%BD%B2%E6%96%B0%E5%9E%8B%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91&tn=49055317_11_hao_pg"><font color="#000000" face="黑体" size="3"<a>6&nbsp陈薇、钟南山团队部署新型疫苗研发</a></font></a>&nbsp&nbsp<br>
+		</center>
+	</center><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<center>
+		<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="1"<a>设为首页</a></font></a>&nbsp&nbsp
+		<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="1"<a>关于百度</a></font></a>&nbsp&nbsp
+		<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="1"<a>About baidu</a></font></a>&nbsp&nbsp
+		<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="1"<a>百度营销</a></font></a>&nbsp&nbsp
+		<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="1"<a>使用百度前必读</a></font></a>&nbsp&nbsp
+		<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="1"<a>意见反馈</a></font></a>&nbsp&nbsp
+		<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="1"<a>帮助中心</a></font></a>&nbsp&nbsp
+		<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="1"<a>京公安备112121212121号</a></font></a>&nbsp&nbsp
+		<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="1"<a>京ICP证033233号</a></font></a>&nbsp&nbsp
+		<a href="http://news.baidu.com/"><font color="#000000" face="黑体" size="1"<a>@2021baidu</a></font></a>&nbsp&nbsp
+	</center>
+    </body>
+</html>
